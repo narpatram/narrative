@@ -1,0 +1,7 @@
+.navbar {
+    background-color: #ffffff; /* Black background color */
+}
+
+.navbar .MuiTypography-root {
+    color: #fff; /* White text color for the logo */
+}
